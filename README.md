@@ -21,6 +21,6 @@ Runner releases:
 
 ![linux](docs/res/linux_sm.png)  [Pre-reqs](docs/start/envlinux.md) | [Download](https://github.com/actions/runner/releases)
 
-## Contribute
+## Contribute...
 
 We accept contributions in the form of issues and pull requests.  [Read more here](docs/contribute.md) before contributing.
